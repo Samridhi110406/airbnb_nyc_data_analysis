@@ -54,6 +54,7 @@ The project includes analysis and visualization of:
 - Minimum nights analysis
 - Correlation heatmap
 
+
 ## Key Findings
 
 - Most Airbnb listings are concentrated within lower and moderate price ranges.
@@ -68,6 +69,18 @@ The project includes analysis and visualization of:
 ## Conclusion
 
 This project demonstrates the complete workflow of exploratory data analysis, including data cleaning, visualization, and insight generation using Python. The analysis highlights how location, room type, and availability influence Airbnb listing behavior across New York City.
+
+
+## Sample Visualizations
+
+### Price Distribution
+![Price Distrbution](price_distribution.png)
+
+### Average Airbnb Price by Borough
+![Borough Price](borough_price.png)
+
+### Geographical Distribution of Airbnb Listings
+![Geo_Distribution](geo_distribution.png)   
 
 ## How to Run the Project
 
